@@ -9,7 +9,7 @@ let json = [
 
 //For loop
   for(let i = 0; i < json.length; i++) {
-  console.log(json);
+  console.log(json[i]);
   }
 
 
